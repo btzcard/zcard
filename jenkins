@@ -2,4 +2,8 @@ node{
 stage('prepare')
 {
 }
+node{
+stage('prepare')
+{
+}
 
