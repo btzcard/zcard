@@ -1,19 +1,17 @@
-Kannan is a Devops Engineer
-sadsad
-<<<<<<< HEAD
-sadsa
-dsdsa
-dasdsa
-d
-sa
+node{
+stage('prepare')
+{
+}
+node{
+stage('prepare')
+{
+}
+node{
+stage('prepare')
+{
+}
+node{
+stage('prepare')
+{
+}
 
-=======
-asdas
-dsada
-sd
-sadafdsf
-dsfds
-fs
-dfg
-fdg
->>>>>>> 4a90a6d9caa8ea9907251bb19d72f46f8fd309fd
