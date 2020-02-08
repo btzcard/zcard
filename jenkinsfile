@@ -1,3 +1,4 @@
+
 node{
 stage('prepare')
 {
@@ -13,5 +14,13 @@ stage('prepare')
 node{
 stage('prepare')
 {
+}
+
+=======
+node()
+{
+stage('prepare')
+{
+}
 }
 
